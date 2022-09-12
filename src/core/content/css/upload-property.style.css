@@ -1,0 +1,8 @@
+.delete-img {
+  display: flex;
+  justify-content: center;
+}
+
+.seccion_form .subir-imagenes .add_img img {
+  height: 70px;
+}
